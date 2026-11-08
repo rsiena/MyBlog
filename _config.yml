@@ -1,0 +1,41 @@
+# Project site for https://github.com/rsiena/MyBlog
+# GitHub Pages serves this repository at https://rsiena.github.io/MyBlog/
+title: MyBlog
+description: Public repository so I can post design philosophy on my projects.
+url: https://rsiena.github.io
+baseurl: /MyBlog
+markdown: kramdown
+timezone: Etc/UTC
+# Match the GitHub Pages default so a post dated today is built.
+future: true
+permalink: /:year/:month/:day/:title/
+# Pages would otherwise apply jekyll-theme-primer. This site ships its own layouts.
+theme: null
+# Keep the article's own heading. Do not strip it into the layout.
+titles_from_headings:
+  enabled: true
+  strip_title: false
+  collections: false
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  # Keep the article's straight apostrophes. Pages does not override this key.
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .bundle
+  - README.md
