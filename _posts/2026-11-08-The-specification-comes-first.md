@@ -1,6 +1,9 @@
 ---
+layout: post
 title: The specification comes first
 date: 2026-11-08
+slug: the-specification-comes-first
+permalink: /2026/11/08/the-specification-comes-first/
 ---
 # The specification comes first
 
