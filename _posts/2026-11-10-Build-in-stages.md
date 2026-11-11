@@ -1,4 +1,9 @@
-# Build in stages
+---
+layout: post
+title: Build in stages
+date: 2026-11-10
+slug: build-in-stages
+---
 
 After version 4 of the specification was approved, I did not open a editor and start on the home page. I built in the order the specification named. Five stages are in the running site. Payments are not. That is a choice, not a delay I forgot about.
 
