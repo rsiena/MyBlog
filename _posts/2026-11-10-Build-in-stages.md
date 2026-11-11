@@ -38,3 +38,5 @@ A stage is done when the behavior in the specification is in the site and a test
 I work on a Linux machine, against PostgreSQL, in .NET 10. The same specification is what got deployed. Localhost is where I break it. The public site is where the last green build goes, and only when I decide to ship it.
 
 The last post in this series is what you can actually do on the site today, and what I am still changing in front of you.
+
+Check out the site at [exit719.com](https://exit719.com). This is my test site, live 24/7. Go there, register, and play around with it. I eagerly await your feedback.
