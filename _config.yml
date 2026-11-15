@@ -11,7 +11,7 @@ future: true
 permalink: /:year/:month/:day/:title/
 # Pages would otherwise apply jekyll-theme-primer. This site ships its own layouts.
 theme: null
-# Keep the article's own heading. Do not strip it into the layout.
+# The post layout prints page.title as the heading, so post bodies have no H1.
 titles_from_headings:
   enabled: true
   strip_title: false

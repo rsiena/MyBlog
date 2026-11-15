@@ -5,8 +5,6 @@ date: 2026-11-09
 slug: the-specification-had-to-change
 permalink: /2026/11/09/the-specification-had-to-change/
 ---
-# The specification had to change
-
 Version 3 of the Exit 719 specification was complete enough to review and incomplete enough to break a build. I had it reviewed on purpose. A specification that has never been attacked is a story I am telling myself.
 
 The review did not ask for more features. It asked for decisions. That is the useful kind of review.

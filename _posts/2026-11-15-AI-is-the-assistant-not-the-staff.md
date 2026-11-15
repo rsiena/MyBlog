@@ -5,8 +5,6 @@ date: 2026-11-15
 slug: ai-is-the-assistant-not-the-staff
 permalink: /2026/11/15/ai-is-the-assistant-not-the-staff/
 ---
-# AI is the assistant, not the staff
-
 The series so far:
 
 1. [The specification comes first](https://rsiena.github.io/MyBlog/2026/11/08/the-specification-comes-first/). Why I write a specification before any screens, and the tests I hold one to.

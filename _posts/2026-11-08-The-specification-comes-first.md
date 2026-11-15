@@ -5,8 +5,6 @@ date: 2026-11-08
 slug: the-specification-comes-first
 permalink: /2026/11/08/the-specification-comes-first/
 ---
-# The specification comes first
-
 I am building a membership site called Exit 719. Before I wrote the screens, I wrote a specification. This post is about that document, and why I will not start a system without one.
 
 A specification is not a wish list. It is the agreement about what the system is. A developer uses it to write the code. A person who joins later uses it to see why a row is kept, who may see a file, and what happens when someone asks to be deleted. If those answers live only in my head, the system is one person wide.
